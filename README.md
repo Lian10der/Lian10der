@@ -1,94 +1,69 @@
-# 👨‍💻 Liander Nunes
+<div align="center">
 
-**`Desenvolvedor Front-End`**
+# 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E72C&width=435&lines=Liander)](https://git.io/typing-svg)
 
-Estudante de Engenharia de Software na SATC e entusiasta de tecnologia, focado em desenvolvimento de software e infraestrutura de TI. 
+### `Desenvolvedor Front-End`
 
-* 📍 **Localização:** Criciúma - SC
-* 🎓 **Formação:** Graduando em Engenharia de Software
+Estudante de Engenharia de Software na SATC e entusiasta de tecnologia, focado em desenvolvimento de software e infraestrutura de TI.
 
-<p align="left">
-    <a href="https://github.com/Lian10der?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lian10der?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Lian10der?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lian10der?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+📍 **Localização:** Criciúma - SC &nbsp;|&nbsp; 🎓 **Formação:** Graduando em Engenharia de Software
+
+<a href="https://github.com/Lian10der?tab=repositories&sort=stargazers">
+  <img alt="Total de estrelas" title="Total de estrelas GitHub"
+    src="https://custom-icon-badges.demolab.com/github/stars/Lian10der?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+</a>
+<a href="https://github.com/Lian10der?tab=followers">
+  <img alt="Seguidores" title="Me siga no GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/Lian10der?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+
+<!-- Troque os links abaixo pelos seus -->
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/SEU-INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+<div align="center">
+
+<img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+</div>
+
+---
 
 ### 📊 Estatísticas
 
+<div align="center">
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lian10der&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=Lian10der&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
-<br/>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Lian10der&layout=compact&hide_title=true&langs_count=5&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Lian10der&layout=compact&hide_title=true&langs_count=5&theme=highcontrast)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Lian10der&layout=compact&hide_title=true&langs_count=5&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Lian10der&layout=compact&hide_title=true&langs_count=5&theme=highcontrast)
+
+![Streak](https://streak-stats.demolab.com?user=Lian10der&theme=highcontrast&hide_border=true)
+
+</div>
