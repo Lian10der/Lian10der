@@ -21,25 +21,6 @@ Estudante de Engenharia de Software na SATC e entusiasta de tecnologia, focado e
 
 ---
 
-### 📫 Contato
-
-<div align="center">
-
-<!-- Troque os links abaixo pelos seus -->
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/SEU-INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center">
