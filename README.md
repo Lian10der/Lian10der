@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E72C&width=435&lines=Liander)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E72C&background=FF2D8A00&center=true&width=435&lines=Liander+)](https://git.io/typing-svg)
 
 ### `Desenvolvedor Front-End`
 
