@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E72C&background=FF2D8A00&center=true&width=435&lines=Liander+)](https://git.io/typing-svg)
 
-### `Desenvolvedor Front-End`
+`Desenvolvedor Front-End`
 
 Estudante de Engenharia de Software na SATC e entusiasta de tecnologia, focado em desenvolvimento de software e infraestrutura de TI.
 
