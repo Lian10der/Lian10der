@@ -45,4 +45,3 @@ Estudante de Engenharia de Software na SATC e entusiasta de tecnologia, focado e
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Lian10der&layout=compact&hide_title=true&langs_count=5&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Lian10der&layout=compact&hide_title=true&langs_count=5&theme=highcontrast)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lian10der&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)</div>
